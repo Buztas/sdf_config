@@ -14,7 +14,7 @@
         <Description>Some deewsccriptionSome deewsccriptionSome deewsccriptionSome deewsccription</Description>
         <url>http://asdasdsadport</url>
         <Rules>ccccc/samplerules.xml</Rules>
-        <ITSMTicketMandatory>false</ITSMTicketMandatory>
+        <ITSMTicketMandatory>true</ITSMTicketMandatory>
         <UsersWhoCanDeploy>sssssss,xxxx</UsersWhoCanDeploy>
         <JenkinsCredentials>XXXXX</JenkinsCredentials>
         <gitSSHUrl>XXXXX</gitSSHUrl>
