@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Configuration>
-    <Environments>
-        <Environment name="Andrew">
-            <Person>Eubanks</Person>
-        </Environment>
-        <Environment name="Sam">
-            <Person>Sulek</Person>
-        </Environment>
-        <Environment name="Chris">
-            <Person>Bumstead</Person>
-        </Environment>
-        <!-- Add more environments as needed -->
-    </Environments>
-    <changeTicketMandatory>true</changeTicketMandatory>
-</Configuration>
+<Environment name="PRODUCT_TEAM_WAS_DEV">
+    <Description>Some deewsccriptionSome deewsccriptionSome deewsccriptionSome deewsccription</Description>
+    <url>http://asdasdsadport</url>
+    <Rules>ccccc/samplerules.xml</Rules>
+    <ITSMTicketMandatory>false</ITSMTicketMandatory>
+    <UsersWhoCanDeploy>sssssss,xxxx</UsersWhoCanDeploy>
+    <JenkinsCredentials>XXXXX</JenkinsCredentials>
+    <gitSSHUrl>XXXXX</gitSSHUrl>
+    <gitBranch>XXXXX</gitBranch>
+</Environment>
+<Environment name="PRODUCT_TEAM_WAS_TEST">
+    <Description>Some deewsccriptionSome deewsccriptionSome deewsccriptionSome deewsccription</Description>
+    <url>http://asdasdsadport</url>
+    <Rules>ccccc/samplerules.xml</Rules>
+    <ITSMTicketMandatory>false</ITSMTicketMandatory>
+    <UsersWhoCanDeploy>sssssss,xxxx</UsersWhoCanDeploy>
+    <JenkinsCredentials>XXXXX</JenkinsCredentials>
+    <gitSSHUrl>XXXXX</gitSSHUrl>
+    <gitBranch>XXXXX</gitBranch>
+</Environment>
+
